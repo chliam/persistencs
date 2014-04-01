@@ -13,9 +13,9 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"页面流程图",
+        "pageName":"梦想广场",
         "type":"Wireframe",
-        "url":"页面流程图.html"},
+        "url":"梦想广场.html"},
 {
         "pageName":"首页",
         "type":"Wireframe",
@@ -96,10 +96,6 @@
             "pageName":"搜动态",
             "type":"Wireframe",
             "url":"搜动态.html"}]},
-{
-        "pageName":"梦想广场",
-        "type":"Wireframe",
-        "url":"梦想广场.html"},
 {
         "pageName":"新建目标",
         "type":"Wireframe",
